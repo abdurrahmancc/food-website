@@ -115,9 +115,26 @@ body{
 }
 .menuall{
     display: flex;
-    margin: 100px 100px 100px 0px;
+    margin: 100px 100px 100px -60px;
 }
 .menu{
     padding: 5px;
     
+}
+.menu1{
+    text-align: center;
+}
+.menu-name{
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    
+}
+.menu-img{
+    padding-bottom: 20px;
+}
+footer p{
+    text-align: center;
+    padding: 25px 0px;
+    border-top: 1px solid rgb(211, 208, 208);
 }
